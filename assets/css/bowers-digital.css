@@ -3,6 +3,6 @@
 }
 
 #bdBanner {
-    height: 300px;
-    margin-top: 130px;
+    margin: 130px 0 0 0;
+    padding: 100px 0;
 }
